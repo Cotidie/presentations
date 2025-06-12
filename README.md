@@ -1,6 +1,19 @@
-# presentations
+# WONSEOK Presentations
 Collection of Academic Presentations I Made
 
+## 📂 Folder
+Each folder is structured as `<num>-<title>` and contains:
+- The original paper/material
+- Presentation PPT
+- Presentation PDF
+```
+|- 06-Attention Is All Yoasdau Need
+  - Attention Is All You Need.pdf                 # Original Paper
+  - Attention Is All You Need - Wonseok Jang.ppt  # Presentation PPT
+  - Attention Is All You Need - Wonseok Jang.pdf  # Presentation PDF
+```
+
+## 📚 Collection
 | Title | Description | Date |
 |-------|-------------|------|
 | Attention Is All You Need | A paper review of Transformer architecture published by Google Brrain, at NIPS'17 | 2025 |
