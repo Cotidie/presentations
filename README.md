@@ -7,10 +7,11 @@ Each folder is structured as `<num>-<title>` and contains:
 - Presentation PPT
 - Presentation PDF
 ```
-|- 06-Attention Is All Yoasdau Need
+|- 06-Attention Is All You Need
   - Attention Is All You Need.pdf                 # Original Paper
   - Attention Is All You Need - Wonseok Jang.ppt  # Presentation PPT
   - Attention Is All You Need - Wonseok Jang.pdf  # Presentation PDF
+...
 ```
 
 ## 📚 Collection
