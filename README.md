@@ -17,6 +17,7 @@ Each folder is structured as `<num>-<title>` and contains:
 ## 📚 Collection
 | Title | Description | Date | Source |
 |-------|-------------|------|--------|
+| HCI Project Proposal | AR interface for rear-side safety for cyclists | 2025 | KAIST HCI CS584 |
 | Attention Is All You Need | A paper review of Transformer architecture published by Google Brain | 2025 | NIPS'17 |
 | See Through Walls With Wi-Fi | A paper review of estimating the number of moving objects behind a wall | 2025 | SIGCOMM'13 |
 | SpotFi: Decimeter Level Localization | A paper review about Wi-fi localization method using OFDM virtual antennas | 2025 | SIGCOMM'15 |
